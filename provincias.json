@@ -1,0 +1,200 @@
+{
+    "cantidad": 24,
+    "inicio": 0,
+    "parametros": {},
+    "provincias": [
+        {
+            "centroide": {
+                "lat": -27.385026,
+                "lon": -55.923538
+            },
+            "id": "54",
+            "nombre": "Misiones"
+        },
+        {
+            "centroide": {
+                "lat": -33.302062,
+                "lon": -66.336960
+            },
+            "id": "74",
+            "nombre": "San Luis"
+        },
+        {
+            "centroide": {
+                "lat": -31.534658,
+                "lon": -68.531855
+            },
+            "id": "70",
+            "nombre": "San Juan"
+        },
+        {
+            "centroide": {
+                "lat": -31.728542,
+                "lon": -60.528662
+            },
+            "id": "30",
+            "nombre": "Entre Ríos"
+        },
+        {
+            "centroide": {
+                "lat": -51.623193,
+                "lon": -69.216974
+            },
+            "id": "78",
+            "nombre": "Santa Cruz"
+        },
+        {
+            "centroide": {
+                "lat": -40.808027,
+                "lon": -62.995741
+            },
+            "id": "62",
+            "nombre": "Río Negro"
+        },
+        {
+            "centroide": {
+                "lat": -43.298949,
+                "lon": -65.105904
+            },
+            "id": "26",
+            "nombre": "Chubut"
+        },
+        {
+            "centroide": {
+                "lat": -31.422208,
+                "lon": -64.182184
+            },
+            "id": "14",
+            "nombre": "Córdoba"
+        },
+        {
+            "centroide": {
+                "lat": -32.889587,
+                "lon": -68.845821
+            },
+            "id": "50",
+            "nombre": "Mendoza"
+        },
+        {
+            "centroide": {
+                "lat": -29.413402,
+                "lon": -66.856457
+            },
+            "id": "46",
+            "nombre": "La Rioja"
+        },
+        {
+            "centroide": {
+                "lat": -28.460568,
+                "lon": -65.784528
+            },
+            "id": "10",
+            "nombre": "Catamarca"
+        },
+        {
+            "centroide": {
+                "lat": -36.620992,
+                "lon": -64.289965
+            },
+            "id": "42",
+            "nombre": "La Pampa"
+        },
+        {
+            "centroide": {
+                "lat": -27.787501,
+                "lon": -64.260418
+            },
+            "id": "86",
+            "nombre": "Santiago del Estero"
+        },
+        {
+            "centroide": {
+                "lat": -27.475015,
+                "lon": -58.852173
+            },
+            "id": "18",
+            "nombre": "Corrientes"
+        },
+        {
+            "centroide": {
+                "lat": -31.642919,
+                "lon": -60.702256
+            },
+            "id": "82",
+            "nombre": "Santa Fe"
+        },
+        {
+            "centroide": {
+                "lat": -26.833117,
+                "lon": -65.194530
+            },
+            "id": "90",
+            "nombre": "Tucumán"
+        },
+        {
+            "centroide": {
+                "lat": -38.956751,
+                "lon": -68.059378
+            },
+            "id": "58",
+            "nombre": "Neuquén"
+        },
+        {
+            "centroide": {
+                "lat": -24.796060,
+                "lon": -65.398533
+            },
+            "id": "66",
+            "nombre": "Salta"
+        },
+        {
+            "centroide": {
+                "lat": -27.451781,
+                "lon": -58.985795
+            },
+            "id": "22",
+            "nombre": "Chaco"
+        },
+        {
+            "centroide": {
+                "lat": -26.184581,
+                "lon": -58.175824
+            },
+            "id": "34",
+            "nombre": "Formosa"
+        },
+        {
+            "centroide": {
+                "lat": -24.195987,
+                "lon": -65.295848
+            },
+            "id": "38",
+            "nombre": "Jujuy"
+        },
+        {
+            "centroide": {
+                "lat": -34.608523,
+                "lon": -58.373463
+            },
+            "id": "02",
+            "nombre": "Ciudad Autónoma de Buenos Aires"
+        },
+        {
+            "centroide": {
+                "lat": -34.922997,
+                "lon": -57.954302
+            },
+            "id": "06",
+            "nombre": "Buenos Aires"
+        },
+        {
+            "centroide": {
+                "lat": -54.803957,
+                "lon": -68.309898
+            },
+            "id": "94",
+            "nombre": "Tierra del Fuego"
+        }
+    ],
+    "total": 24
+}
