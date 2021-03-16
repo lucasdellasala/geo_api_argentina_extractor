@@ -82,7 +82,7 @@ idsProvincias.map(e=>{
                     return departamentosFinales
                 })
                 .then((data)=>{
-                    fs.writeFile(`./final/${e}.json`, JSON.stringify(data), (err) => {
+                    fs.writeFile(`./final/${e}.json`, JSON.stringify({"departamentos": data, "cantidad": data.length}), (err) => {
                         if (err) {
                             console.error(err)
                         } else {
