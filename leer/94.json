@@ -1,0 +1,101 @@
+{
+    "cantidad": 4,
+    "inicio": 0,
+    "localidades_censales": [
+        {
+            "categoria": "Localidad simple",
+            "centroide": {
+                "lat": -54.637686082869,
+                "lon": -67.766940855265
+            },
+            "departamento": {
+                "id": "94015",
+                "nombre": "Ushuaia"
+            },
+            "funcion": null,
+            "id": "94015010",
+            "municipio": {
+                "id": null,
+                "nombre": null
+            },
+            "nombre": "Laguna Escondida",
+            "provincia": {
+                "id": "94",
+                "nombre": "Tierra del Fuego, Antártida e Islas del Atlántico Sur"
+            }
+        },
+        {
+            "categoria": "Localidad simple",
+            "centroide": {
+                "lat": -54.8036404601709,
+                "lon": -68.3160624772531
+            },
+            "departamento": {
+                "id": "94015",
+                "nombre": "Ushuaia"
+            },
+            "funcion": "CAPITAL_PROVINCIA",
+            "id": "94015020",
+            "municipio": {
+                "id": "940014",
+                "nombre": "Ushuaia"
+            },
+            "nombre": "Ushuaia",
+            "provincia": {
+                "id": "94",
+                "nombre": "Tierra del Fuego, Antártida e Islas del Atlántico Sur"
+            }
+        },
+        {
+            "categoria": "Localidad simple",
+            "centroide": {
+                "lat": -53.7870473449159,
+                "lon": -67.7132350718047
+            },
+            "departamento": {
+                "id": "94008",
+                "nombre": "Río Grande"
+            },
+            "funcion": "CABECERA_DEPARTAMENTO",
+            "id": "94008010",
+            "municipio": {
+                "id": "940007",
+                "nombre": "Río Grande"
+            },
+            "nombre": "Río Grande",
+            "provincia": {
+                "id": "94",
+                "nombre": "Tierra del Fuego, Antártida e Islas del Atlántico Sur"
+            }
+        },
+        {
+            "categoria": "Localidad simple",
+            "centroide": {
+                "lat": -54.5113867546733,
+                "lon": -67.195804463563
+            },
+            "departamento": {
+                "id": "94008",
+                "nombre": "Río Grande"
+            },
+            "funcion": "CABECERA_DEPARTAMENTO",
+            "id": "94008020",
+            "municipio": {
+                "id": "942007",
+                "nombre": "Tolhuin"
+            },
+            "nombre": "Tolhuin",
+            "provincia": {
+                "id": "94",
+                "nombre": "Tierra del Fuego, Antártida e Islas del Atlántico Sur"
+            }
+        }
+    ],
+    "parametros": {
+        "max": 600,
+        "provincia": [
+            "94"
+        ]
+    },
+    "total": 4
+}
